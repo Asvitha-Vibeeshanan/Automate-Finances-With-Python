@@ -1,0 +1,15 @@
+{
+    "Amazon Shopping": ["AMAZON", "AMZN Mktp"],
+    "Zelle Payments": ["Zelle"],
+    "Natural Gas": ["PIEDMONT NATURAL"],
+    "Groceries": ["SUVIDHA", "WMT", "Walmart", "FOOD LION", "HARRIS TE"],
+    "Food": ["STARBUCKS", "McDonalds", "MCDONALD'S", "UNCC CHICFILA", "Uber Eats", "TASTE OF INDIA CLT", "EL AMIGO", "ANDY'S", "UNC CHAR", "CIRCLE K", "DOMINO'S"],
+    "Shopping": ["Adidas","ROSS STORE", "APPLE", "PUMA", "Shein", "NEW YORK THREAD", "Premium Outle", "SP NATASHA DENONA", "AMC" ],
+    "Credit Card Payment": ["DISCOVER"],
+    "Rent": ["Queen City Manag DES","APF*Queen City", "AppFolio"],
+    "Tution Fee": ["UNC CHAR FS CASHIERS"],
+    "Ride": ["LYFT", "UBR"],
+    "Beginning balance": ["Beginning balance"],
+    "Others": []
+
+  }
